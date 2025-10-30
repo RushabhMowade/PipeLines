@@ -5,4 +5,6 @@ Here we have created simple pipelinses using the dataset Housing price predictio
 
 Model used : Regression Model (Ridge)
 
-As this was a public competition, we had to submit it in a seprate csv file(named as submission).........
+As this was a public competition, we had to submit it in a seprate csv file(named as submission)
+<br><br> -+- Created by [Rushabh Mowade](https://github.com/RushabhMowade)
+
